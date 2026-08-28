@@ -22,7 +22,7 @@ body{font-family:var(--body); color:var(--indwe-ink); background:var(--charcoal)
 .deck::-webkit-scrollbar{width:0}
 .slide{position:relative; min-height:100vh; scroll-snap-align:start; scroll-snap-stop:always;
   display:flex; flex-direction:column; justify-content:center;
-  padding:96px clamp(28px,7vw,120px) 84px; overflow:hidden;}
+  padding:84px clamp(28px,7vw,120px) 72px; overflow:hidden;}
 .inner{width:100%; max-width:1180px; margin:0 auto; position:relative; z-index:2}
 
 /* themes */
@@ -235,7 +235,7 @@ html.js .imprbar .seg{flex-grow:0}
 .modelnote{margin-top:18px; font-size:13px; opacity:.7; border-left:2px solid var(--gold); padding-left:14px; max-width:60ch}
 
 /* asks */
-.asks{display:grid; gap:12px; margin-top:6px}
+.asks{display:grid; gap:10px; margin-top:6px}
 .ask{display:flex; gap:14px; align-items:flex-start; padding:14px 16px; background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.14); border-radius:12px}
 .ask .k{font-family:var(--disp); font-weight:700; color:var(--gold)}
 .ask .t{font-size:14.5px; line-height:1.4}
@@ -264,7 +264,7 @@ html.js .imprbar .seg{flex-grow:0}
 }
 
 /* board summary helpers */
-.bgrid{display:grid; grid-template-columns:repeat(2,1fr); gap:16px; margin-top:18px}
+.bgrid{display:grid; grid-template-columns:repeat(2,1fr); gap:13px; margin-top:16px}
 .bcard{border:1px solid var(--line); border-radius:14px; padding:22px 24px; background:var(--card)}
 .bcard .ic{font-family:var(--disp); font-size:12px; font-weight:600; letter-spacing:.14em; text-transform:uppercase; color:var(--indwe)}
 .bcard h3{margin:8px 0 6px; font-size:19px}
@@ -582,10 +582,10 @@ html.js .bw{opacity:0; transform:translateY(22px)}
         <div class="ft fthead"><div class="from">A sponsorship platform<small>One swing, one lead, one policy</small></div><div class="arr">→</div><div class="to">A sales agency for SA golf<small>Every insurable asset in the game</small></div></div>
       </div>
       <div class="bgrid r d3">
-        <div class="bcard"><div class="ic">Personal lines</div><h3>150,000 affluent golfers</h3><p>150,000 active golfers nationally, 120,000 of them recreational — homes, vehicles, valuables and all-risks cover for the wealthiest consumer segment in the country. <span class="tbcpill">INSURABLE VALUE TBC</span></p></div>
+        <div class="bcard"><div class="ic">Personal lines</div><h3>150,000 affluent golfers</h3><p>150,000 nationally, 120,000 recreational — homes, vehicles and valuables for the wealthiest consumer segment in the country. <span class="tbcpill">INSURABLE VALUE TBC</span></p></div>
         <div class="bcard"><div class="ic">Commercial</div><h3>47% are business decision-makers</h3><p>The golfer is the gateway to the business behind them — commercial, fleet, liability and specialist cover. <span class="tbcpill">INSURABLE VALUE TBC</span></p></div>
-        <div class="bcard"><div class="ic">Club &amp; course assets</div><h3>Clubhouses, fleets, plant</h3><p>Irrigation, greenkeeping machinery, golf-cart fleets, pro shops and clubhouse contents across the national club base. <span class="tbcpill">CLUB COUNT TBC</span></p></div>
-        <div class="bcard"><div class="ic">Events &amp; travel</div><h3>Tournaments, prizes, golf travel</h3><p>Public liability, event cancellation, prize indemnity and international golf travel — categories Get Lucky already sits inside. <span class="tbcpill">INSURABLE VALUE TBC</span></p></div>
+        <div class="bcard"><div class="ic">Club &amp; course assets</div><h3>Clubhouses, fleets, plant</h3><p>Irrigation, greenkeeping plant, cart fleets, pro shops and clubhouse contents across the club base. <span class="tbcpill">CLUB COUNT TBC</span></p></div>
+        <div class="bcard"><div class="ic">Events &amp; travel</div><h3>Tournaments, prizes, golf travel</h3><p>Public liability, event cancellation, prize indemnity and golf travel — categories Get Lucky already sits inside. <span class="tbcpill">INSURABLE VALUE TBC</span></p></div>
       </div>
       <div class="bannerstrip r d4" style="margin-top:18px"><div class="q">R2.1 trillion in personal wealth sits inside the base we already reach.</div><div class="fsp">150,000 GOLFERS × R14M AVERAGE NET WORTH</div></div>
     </div>
@@ -612,15 +612,16 @@ html.js .bw{opacity:0; transform:translateY(22px)}
   <section class="slide t-indwe tinted" data-label="Why It Makes Sense">
     <div class="inner">
       <div class="eyebrow r">08 · Why the partnership makes strategic sense</div>
-      <h2 class="r d1" style="max-width:24ch">Not just hole-in-1s. Let’s own golf.</h2>
-      <div class="asks" style="margin-top:22px">
-        <div class="ask r d2"><span class="k">01</span><span class="t"><b>We're reaching the right audience.</b> Affluent leads are real and flowing — the most difficult part of any insurance funnel is already working.</span></div>
-        <div class="ask r d3"><span class="k">02</span><span class="t"><b>Get Lucky is central to Indwe's growth</b> — front and centre in two of the strategic initiatives — affluent leads and partnerships.</span></div>
-        <div class="ask r d3"><span class="k">03</span><span class="t"><b>The model compounds.</b> A recurring membership relationship + national broadcast + the Get Lucky Golf app + 150,000 golfers means reach that grows season on season.</span></div>
-        <div class="ask r d4"><span class="k">04</span><span class="t"><b>The platform now reaches past the fairway.</b> The app and founding-partner alliances take Indwe’s association with golf from 30+ par 3s into every player’s pocket — locally, then internationally.</span></div>
-        <div class="ask r d4"><span class="k">05</span><span class="t"><b>A phased, honest route to returns.</b> Year-1 new business has not landed the way we modelled. But the database, the app and the partner network are assets that compound — and the international route changes the economics of this partnership entirely.</span></div>
+      <h2 class="r d1" style="max-width:30ch">Eight months into a long game. Now is not the time to pivot.</h2>
+      <p class="lead r d2" style="margin-top:12px; max-width:84ch">We all agreed this was a long-term play for South Africa’s affluent golfers. What we are doing now is learning how to position Indwe as the go-to broker for golfers, and for the golf industry as a whole.</p>
+      <div class="asks" style="margin-top:18px">
+        <div class="ask r d2"><span class="k">01</span><span class="t"><b>We agreed on a long game.</b> Eight months is where that strategy gets tested, not abandoned — and affluent leads are real and flowing.</span></div>
+        <div class="ask r d3"><span class="k">02</span><span class="t"><b>Get Lucky has evolved.</b> From headline sponsorship into a hands-on sales agency for golfers — front and centre in two of Indwe’s strategic initiatives: affluent leads and partnerships.</span></div>
+        <div class="ask r d3"><span class="k">03</span><span class="t"><b>The model compounds.</b> A recurring membership relationship, national broadcast, the app and 150,000 golfers means reach that grows season on season.</span></div>
+        <div class="ask r d4"><span class="k">04</span><span class="t"><b>It now reaches past the fairway.</b> The app and founding-partner alliances take Indwe’s association with golf from 30+ par 3s into every player’s pocket — locally, then internationally.</span></div>
+        <div class="ask r d4"><span class="k">05</span><span class="t"><b>A phased, honest route to returns.</b> Year-1 new business has not landed as modelled — but the database, the app and the partner network compound, and the international route changes the economics entirely.</span></div>
       </div>
-      <div class="missionstrip r d4"><span class="mtag">★ Our Mission</span>Indwe will drive growth through the Get Lucky brand engagement engine, becoming the trusted insurance broker for golfers across South Africa.</div>
+      <div class="missionstrip r d4"><span class="mtag">★ Our Mission</span>Not just hole-in-1s — let’s own golf. Indwe becomes the go-to broker for South African golfers, and for the golf industry as a whole.</div>
     </div>
   </section>
 
