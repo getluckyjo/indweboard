@@ -193,7 +193,7 @@ html.js .qstage i{transform:scaleX(.05)}
 
 /* whats next cards */
 .heros{display:grid; grid-template-columns:1fr 1fr; gap:20px; margin-top:6px}
-.herocard{border-radius:16px; padding:26px; background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.16); position:relative; overflow:hidden}
+.herocard{border-radius:16px; padding:22px; background:rgba(255,255,255,.06); border:1px solid rgba(255,255,255,.16); position:relative; overflow:hidden}
 .herocard .live{display:inline-flex; align-items:center; gap:7px; font-family:var(--disp); font-size:11px; font-weight:700; letter-spacing:.12em; color:#fff; background:#c8202e; padding:4px 10px; border-radius:5px}
 .herocard .live::before{content:""; width:7px;height:7px;border-radius:50%;background:#fff; animation:blink 1.3s infinite}
 @keyframes blink{50%{opacity:.3}}
@@ -208,7 +208,7 @@ html.js .qstage i{transform:scaleX(.05)}
 .phone .scr{display:block; border-radius:22px; overflow:hidden; max-height:50vh}
 .phone img{display:block; width:100%; object-fit:cover; object-position:top}
 .phcap{font-family:var(--disp); font-size:11.5px; letter-spacing:.04em; opacity:.72; margin-top:12px; max-width:212px; margin-inline:auto; line-height:1.4}
-.nextcards{display:grid; gap:14px}
+.nextcards{display:grid; gap:12px}
 .ssrow{display:flex; align-items:center; gap:12px; margin-bottom:4px}
 .sslogo{height:30px; width:auto; border-radius:5px; display:block}
 .live2{font-family:var(--disp); font-size:11px; font-weight:700; letter-spacing:.12em; color:var(--gold-soft); border:1px solid rgba(226,200,121,.5); padding:4px 10px; border-radius:5px}
@@ -354,6 +354,9 @@ html.js .bw{opacity:0; transform:translateY(22px)}
 .t-pga{color:#fff; background-size:cover; background-position:center 42%; background-repeat:no-repeat}
 .t-pga::after{content:""; position:absolute; inset:0; z-index:1;
   background:linear-gradient(100deg,rgba(2,36,66,.96) 0%,rgba(2,42,76,.92) 40%,rgba(3,48,84,.84) 72%,rgba(4,54,92,.78) 100%);}
+.psplit{display:flex; gap:6px; margin-top:11px; flex-wrap:wrap}
+.psplit span{background:rgba(201,162,39,.13); border:1px solid rgba(201,162,39,.45); color:var(--gold-soft); border-radius:7px; padding:4px 9px; font-family:var(--disp); font-size:11.5px; font-weight:600}
+.psplit b{color:#fff; font-weight:700}
 .pgalock{display:inline-flex; background:#fff; border-radius:12px; padding:9px 15px; box-shadow:0 12px 34px rgba(0,0,0,.42); margin-bottom:20px}
 .pgalock img{height:42px; width:auto; display:block}
 @media(max-width:760px){.pgalock img{height:32px}}
@@ -462,7 +465,7 @@ html.js .bw{opacity:0; transform:translateY(22px)}
   <section class="slide t-dark tinted" data-label="The App">
     <div class="inner">
       <div class="eyebrow r">03 · <span class="gold">The biggest update</span></div>
-      <h2 class="r d1">The world's first hole-in-1 app — and the names behind it.</h2>
+      <h2 class="r d1">The world's first hole-in-1 app.</h2>
       <div class="chips r d2" style="margin-top:16px">
         <span class="chip"><b>47.2m</b> golfers in target markets</span>
         <span class="chip"><b>112.2m</b> golfers worldwide</span>
@@ -478,17 +481,18 @@ html.js .bw{opacity:0; transform:translateY(22px)}
           <div class="herocard r d3">
             <span class="live">IN BETA</span>
             <h3>Get Lucky Golf — the app</h3>
-            <p>One paid shot at a hole-in-one on every par 3, anywhere we are live, sold shot by shot. It takes the celebration off the course and into every player's pocket — a product that travels, rather than a sponsorship that sits at 30 par 3s. Target markets carry <b>47.2 million active golfers</b> across the US, Europe, Japan and South Africa.</p>
+            <p>One paid shot at a hole-in-one on every par 3, anywhere we are live, sold shot by shot. A product that travels — rather than a sponsorship fixed to 30 par 3s.</p>
           </div>
           <div class="herocard r d4">
             <span class="live2">FOUNDING PARTNER</span>
             <h3>Ernie Els</h3>
-            <p>Ernie Els comes in as founding partner for name, likeness and network — not an endorsement, the unlock. The Ernie Partner Network is modelled to add <b>200,000 registered players over three years</b> through the PGA, Golfbreaks, Your Golf Travel and 100 partner courses.</p>
+            <p>Founding partner for name, likeness and network — not an endorsement, the unlock. His network is modelled to add <b>200,000 players</b> via the PGA, Golfbreaks, Your Golf Travel and 100 courses.</p>
           </div>
           <div class="herocard r d4">
             <span class="live2">IN PROGRESS</span>
-            <h3>Icons Cup SA — hole-in-one partner</h3>
-            <p>We are working towards the official hole-in-one partnership for Icons Cup SA — putting Get Lucky, and Indwe, on one of the country's highest-profile golf stages. <span class="tbcpill">TERMS TBC</span></p>
+            <h3>Icons Cup SA — official hole-in-one sponsor</h3>
+            <p><b>R10m on the line.</b> The fan game runs inside the Get Lucky app, pushing thousands of new users straight into the digital challenge.</p>
+            <div class="psplit"><span><b>R4m</b> to the player</span><span><b>R3m</b> to charity</span><span><b>3 × R1m</b> to fans who pick the ace</span></div>
           </div>
         </div>
       </div>
