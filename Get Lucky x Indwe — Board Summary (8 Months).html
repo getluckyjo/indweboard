@@ -503,7 +503,18 @@ html.js .bw{opacity:0; transform:translateY(22px)}
                 <span class="av">GL</span>
                 <span><span class="nm">Get Lucky Golf</span><span class="st">business account</span></span>
               </div>
-              <div class="wa-body" id="waBody"></div>
+              <div class="wa-body" id="waBody">
+                <div class="wa-b in"><p>Hi Johan, thanks for entering the Get Lucky Hole-in-One Challenge at Atlantic Beach.</p><p>You can now get 12 months of complimentary Hole-in-One Membership — a shot at R100,000 on your next ace. All you need is our headline sponsor, <b>Indwe Risk Services</b> (FSP 3425), to quote on your portfolio.</p><p>No obligation to switch. Keen to get your quote?</p><span class="t">10:42</span></div>
+                <div class="wa-qr"><span>Yes, quote me</span><span>No thank you</span></div>
+                <div class="wa-b out"><p>Yes, quote me</p><span class="t">10:44 ✓✓</span></div>
+                <div class="wa-b in"><p>Nice one, this will only take a minute. What would you like Indwe to quote you on?</p><span class="t">10:44</span></div>
+                <div class="wa-qr"><span>Business insurance</span><span>Personal insurance</span><span>Both</span></div>
+                <div class="wa-b out"><p>Personal insurance</p><span class="t">10:45 ✓✓</span></div>
+                <div class="wa-b in"><p>Before I set the call up — Indwe need your details and these answers to quote. Happy for me to pass them on?</p><span class="t">10:46</span></div>
+                <div class="wa-qr"><span>Yes, go ahead</span><span>No</span></div>
+                <div class="wa-b out"><p>Yes, go ahead</p><span class="t">10:46 ✓✓</span></div>
+                <div class="wa-b in"><p>Thanks Johan — that’s you sorted. An Indwe Advisor will be in touch on <b>Tue 1 Sep, 09:00–10:00</b>. Swing it to win.</p><span class="t">10:46</span></div>
+              </div>
             </div>
           </span>
         </div>
@@ -847,7 +858,7 @@ function countUp(el){ if(el.dataset.done)return; el.dataset.done=1;
   function play(){
     if(running) return;
     running=true; clearAll(); body.innerHTML='';
-    if(reduce){ S.forEach(render); running=false; return; }
+    if(reduce){ running=false; return; }   /* the markup already holds the full thread */
     var i=0;
     (function next(){
       if(i>=S.length){
