@@ -40,6 +40,8 @@ You've all seen the model, so I won't re-run it. The short version:
 - **Capped exposure**: the SA ladder runs from R25,000 to R1,000,000, one swing at a time. Largest single event is R1m. No subscriptions, no unlimited swings.
 - **Breakeven at 2.51× amateur ace odds** — 2.58× on the tier-selection test, where 95% of the claims actually sit. Both statistically remote.
 
+One note on the workbook: it's built in dollars. That's deliberate — the US and Europe are where this ends up, and we'd rather not rebuild the model later. The South African schedule is the rand ladder above; the dollar tiers are the same structure at global scale.
+
 What's changed since 2 September is that the demand assumption is no longer an assumption. The show gave us three days of live conversion data, and the build is finished and waiting.
 
 **The steps to move from model to signed cover:**
@@ -104,7 +106,7 @@ Full one-pager attached.
 2. The right person at Santam Specialist Solutions for the ICONS quote, and whatever proposal form they need — we'll turn it around in 48 hours.
 3. The right person on the Santam brand side, so the rights package can be valued alongside it rather than after the fact.
 
-Both have the same clock on them. The December date is fixed, and we want the app open and taking entries well before it so the "Back an Icon" campaign has something to convert into. A quote in the next two weeks keeps an October announcement on the table.
+Both pieces have the same clock on them. The December date is fixed, and we want the app open and taking entries well before it so the "Back an Icon" campaign has something to convert into. A quote in the next two weeks keeps an October announcement on the table.
 
 I'm back in Cape Town now. Can we get the four of us on a call this week? I'll bring the schedule of risk and walk you through a claim end to end.
 
