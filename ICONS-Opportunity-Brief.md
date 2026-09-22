@@ -10,10 +10,10 @@ September 2026
 
 ## In one paragraph
 
-Santam already carries the Get Lucky risk and Indwe places it. This is not a new
-relationship — it is the first event that sits **above** the main cover's $100,000
-single-event cap, and it is the moment the Ernie Els-backed mobile challenge gets
-introduced to the two markets the model is built to scale into. One quote, one
+On 2 September we agreed to **lock the South African policy down as the foundation
+for global expansion**. This is the event that opens it. It sits **above** the main
+cover's $100,000 single-event cap, so it needs its own quote — and it puts the Ernie
+Els-backed challenge in front of exactly the two markets the model scales into. One
 weekend, a closed field of 28, broadcast to 150+ countries.
 
 ---
@@ -137,7 +137,7 @@ when insurance brands land best.
 
 ## 4. Nothing needs to be built
 
-Live in the app today:
+Built and ready in the app (not yet open to the public — that waits on the cover):
 
 | Built | Detail |
 |---|---|
@@ -172,7 +172,8 @@ table.
 1. The right contact at Santam Specialist Solutions for the quote.
 2. The proposal form and whatever risk information is needed — we will turn it around
    in 48 hours.
-3. A call to walk through the app, the claim path and the evidence pack.
+3. A call to walk through the app, the claim path and the evidence pack — alongside
+   signing the SA foundation cover agreed on 2 September.
 
 ---
 
