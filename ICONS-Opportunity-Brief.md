@@ -1,25 +1,31 @@
 # The ICONS Opportunity
 
 ### Icons Cup South Africa · The Links at Fancourt · 11–13 December 2026
-**A R10 million hole-in-one prize, and why Santam should be the name behind it**
+**A R10 million hole-in-one prize — and the launch pad for the global book**
 
-Prepared for Santam Specialist Solutions and Indwe Risk Services
-Get Lucky Golf Club · September 2026
+Get Lucky Golf Club × Indwe × Santam · One-page brief · Confidential
+September 2026
+
+---
+
+## In one paragraph
+
+Santam already carries the Get Lucky risk and Indwe places it. This is not a new
+relationship — it is the first event that sits **above** the main cover's $100,000
+single-event cap, and it is the moment the Ernie Els-backed mobile challenge gets
+introduced to the two markets the model is built to scale into. One quote, one
+weekend, a closed field of 28, broadcast to 150+ countries.
 
 ---
 
 ## 1. The event
-
-The Icons Series is a match-play golf format where elite athletes from other sports
-compete as teams. It has run in the UK, the US and Asia; **Icons Cup South Africa is
-its African debut**, and it is happening on one of the best golf courses in the world.
 
 | | |
 |---|---|
 | **Format** | Team South Africa vs Team World, three-day match play |
 | **Venue** | The Links at Fancourt, George |
 | **Dates** | 11–13 December 2026 |
-| **Field** | 28 sporting icons across cricket, rugby, football and more |
+| **Field** | 28 sporting icons — cricket, rugby, football and more |
 | **Captains** | Ernie Els (South Africa) · José María Olazábal (World) |
 | **Broadcast** | Live to 150+ countries across international networks and digital |
 
@@ -30,28 +36,20 @@ Shaun Pollock.
 **Team World** (announced to date): José María Olazábal (captain), Jimmy Anderson,
 Ash Barty, George Gregan, Brian Lara, Yuvraj Singh, John Terry, Dwight Yorke.
 
-Fourteen a side eventually. The field is still being announced.
+Fourteen a side eventually; the field is still being announced.
 
-### The audience is proven, not projected
-
-The most recent Icons event delivered approximately **38 million views** across a
-10-partner, 14-channel distribution strategy, with roughly 60% of live views coming
-through third-party channels. Broadcast partners across the series include Sky Sports
-(UK), Fox Sports (Australia), SuperSport (South Africa), TSN (Canada) and Claro
-(Latin America).
-
-This one has the home-market advantage on top of that: an African first, a South
-African venue, and the most recognisable golfer this country has produced captaining
-the home side.
+**The audience is proven, not projected.** The most recent Icons event delivered
+approximately **38 million views** across a 10-partner, 14-channel distribution
+strategy, roughly 60% of live views through third-party channels. Series broadcast
+partners include Sky Sports (UK), Fox Sports (Australia), SuperSport (South Africa),
+TSN (Canada) and Claro (Latin America).
 
 ---
 
-## 2. Our position in it
+## 2. The prize, and the ask
 
-Get Lucky is a sponsor of Icons Cup South Africa, and **we own a par 3 at The Links —
-the Get Lucky hole.**
-
-On it sits a **R10 million hole-in-one prize**, split four ways:
+Get Lucky sponsors the event and owns a par 3 at The Links — **the Get Lucky hole**.
+On it sits a **R10 million hole-in-one prize**:
 
 | Amount | Who |
 |---|---|
@@ -59,131 +57,128 @@ On it sits a **R10 million hole-in-one prize**, split four ways:
 | **R3 million** | A charity that Icon supports |
 | **R1 million × 3** | Fans who backed that Icon in the Get Lucky app |
 
-Every one of the 28 Icons plays the hole. Every fan in the app picks the Icon they
-think will hole it — one pick per golfer, changeable until the first tee.
+**The ask: a prize indemnity quote for the R10 million.**
+
+### Why it sits outside the main cover
+
+The mobile challenge cover is priced on a **$100,000 (R1.85m) single-event cap**.
+R10m is 5.4× that limit, so this does not belong on the app's schedule of risk. It is
+a **separate one-off facility above the book** — which is the cleaner structure for
+both sides, because the risk profile is completely different and far tighter.
+
+### Why the risk is unusually contained
+
+- **A closed, named field.** 28 players, known in advance, none professional golfers.
+- **One hole, three days.** A fixed carry, a defined number of rounds, a countable
+  number of tee shots. No open entry, no walk-ups, no re-tries.
+- **One trigger, R10m aggregate.** All five payouts fire off the same single ace, or
+  none of them do. There is no scenario in which the exposure compounds.
+- **Verification is live television.** Broadcast cameras on the hole, plus the app's
+  own sealed and hashed capture. Not a claim anyone can dispute.
+
+Compare that to the main book, which Santam is already comfortable carrying at a
+31.9% loss ratio across 1.9 million insured swings. This is one shot, on camera,
+by a known list of people.
 
 ---
 
-## 3. What we are asking Santam for
+## 3. Why it is worth more than a sponsorship line
 
-**A prize indemnity quote for the R10 million hole-in-one prize on the Get Lucky hole,
-11–13 December 2026.**
+### 3.1 It is the launch pad for the global book
 
-That is it. One quote, on an existing Santam product line.
+The US and Europe case rests on one sentence: *Ernie's name is the key that opens
+both doors.* Icons Cup is that name, on that property, broadcast into exactly those
+two markets.
 
-### Why this is an unusually clean risk
+| Capture of 42m US + EU golfers | Premium placed / yr | Indwe brokerage / yr |
+|---|---|---|
+| 0.5% | R190m | **R38m** |
+| **1%** | **R380m** | **R76m** |
+| 3% | R1.14bn | R228m |
+| 5% | R1.90bn | R380m |
 
-Prize indemnity is priced on the number of attempts and the odds of success. Both are
-knowable here in a way they almost never are at a club day:
+At 1% penetration, a single year of brokerage is more than **2.5× the entire
+three-year SA base case (R28.8m)**. Icons is where that story is told to those
+markets — with Santam's name on the prize, in front of the audience that has to
+buy it.
 
-- **A closed, named field.** 28 players, all known by name in advance, none of them
-  professional golfers.
-- **One hole.** One designated par 3 at The Links, with a fixed, measured carry.
-- **Three days.** A defined window with a defined number of rounds.
-- **Total tee shots are countable before a premium is struck.** There is no open
-  public entry, no walk-ups, no unlimited re-tries.
-- **Every shot is filmed.** Broadcast cameras on the hole, plus our own app capture.
-  Verification is not a dispute waiting to happen — it is live television.
+### 3.2 Every fan vote is a qualified, identified lead
 
-SHA Risk Specialists has underwritten prize indemnity for over 30 years and requires
-video footage above R500,000 of indemnity. Here you get broadcast footage to 150
-countries, plus our hashed and witnessed capture, on a field of 28 known players.
-
----
-
-## 4. What Santam gets back
-
-### 4.1 It is your own product, on the biggest stage available
-
-Santam Specialist Solutions already sells prize indemnity. Nothing new has to be
-invented, no new risk class approved, no product built. The difference between this
-and the prize indemnity Santam writes every week is the audience watching the payout
-moment.
-
-### 4.2 The charity tile is a South African outcome, not a brand exercise
-
-R3 million goes to a charity the Icon supports. Ernie Els captains the home team,
-and the **Els for Autism Foundation runs two centres in South Africa** — Cape Town
-and Johannesburg — delivering the #GameOn Autism Golf programme and parent-training
-support.
-
-A R10 million prize with a R3 million South African community outcome attached,
-underwritten by Santam, is a fundamentally different story to a logo on a tee box.
-It gives the brand team something to talk about that has nothing to do with
-insurance, which is exactly when insurance brands land best.
-
-### 4.3 Every fan vote is a qualified, identified lead
-
-To back an Icon in the app, a fan has to be a registered, age-verified South African
-golfer with a real account. That is first-party data on precisely the audience the
-Indwe partnership was built to reach:
+To back an Icon in the app, a fan must be a registered, age-verified golfer with a
+real account. That is first-party data on exactly the audience the partnership was
+built to reach:
 
 > **150,000 South African golfers · R14m+ average net worth · 47% business
 > decision-makers**
 
-Icons already runs an interactive broadcast layer on its telecasts — live polling,
-Q&A and fan content on screen alongside the play. The Get Lucky vote is a natural
-fit for that layer, which means the app's sign-up moment can appear on national
-television during the event rather than only on our own channels.
+The honest lesson from the first five months was that lead volume was never the
+constraint — positioning was. Appointment quality only moved once the approach
+changed, from ~3% to ~18%.
 
-The board summary numbers show what we learned this year: lead volume was never the
-constraint, positioning was. **"Vote for the icon you think holes the R10 million
-shot"** is the single best positioning we have ever had for getting an affluent
-golfer to create an account voluntarily.
+**"Vote for the icon you think holes the R10 million shot"** is the strongest
+positioning this partnership has had for getting an affluent golfer to open an
+account voluntarily. Icons also runs an interactive layer on its telecasts — live
+polling and fan content on screen — so the vote can appear on national television
+during play rather than only on our own channels.
 
-### 4.4 It is the proof point for the national underwriting conversation
+### 3.3 The charity tile is a South African outcome
 
-We are asking Santam to underwrite 100% of the Get Lucky prize book across South
-Africa. ICONS is the smallest, most contained, most visible possible place to start
-that relationship: one hole, one weekend, 28 players, a closed field, broadcast
-verification, and a hard stop on 13 December.
+R3 million goes to a charity the Icon supports. Ernie captains the home team, and the
+**Els for Autism Foundation runs two centres in South Africa** — Cape Town and
+Johannesburg — delivering the #GameOn Autism Golf programme and parent-training
+support.
 
-If it works, the national book follows with a live proof point behind it. If Santam
-wants to see how we handle a claim before committing to the foundation, this is the
-cheapest possible way to watch.
+A R10m prize with a R3m South African community outcome attached, underwritten by
+Santam, is a fundamentally different story to a logo on a tee box — and it gives the
+brand team something to talk about that has nothing to do with insurance, which is
+when insurance brands land best.
 
 ---
 
-## 5. The machinery already exists
+## 4. Nothing needs to be built
 
-This is not a concept deck. The following is live in the app today:
+Live in the app today:
 
 | Built | Detail |
 |---|---|
-| **The venue** | Fancourt is already a seeded course. All four par 3s at The Links are in the register (holes 2, 8, 11 and 17 — 214m, 156m, 148m and 163m). |
-| **The field** | All 16 announced Icons are seeded, by team, with captains marked. New announcements are added from the admin panel. |
-| **The vote** | One pick per golfer, changeable until the first tee, with live standings and a "fan favourite" leader. |
-| **The prize display** | The R10m split renders as three tiles on the Icons screen, with the amount, the recipient and the terms line. |
+| **The venue** | Fancourt is a seeded course. All four par 3s at The Links are in the register — holes 2, 8, 11 and 17 (214m, 156m, 148m, 163m). |
+| **The field** | All 16 announced Icons are seeded by team, captains marked. New announcements added from the admin panel. |
+| **The vote** | One pick per golfer, changeable until the first tee, with live standings and a fan-favourite leader. |
+| **The prize display** | The R10m split renders as three tiles on the Icons screen, with amount, recipient and terms. |
 | **The claim path** | Sealed footage with SHA-256, capture attestation, GPS, hashed documents, independent witness and club confirmation, eleven risk rules, a mandatory reviewer checklist, an append-only audit log, and a per-claim evidence pack carrying its own hash. |
 
 **Open it:** [www.getluckyholeinone.com](https://www.getluckyholeinone.com) → Icons tab.
 
 ---
 
-## 6. Timeline
+## 5. Timeline
 
 | When | What |
 |---|---|
 | **Now** | Santam Specialist Solutions reviews the risk and issues a quote |
 | **October** | Cover bound; Santam named on the prize; co-branded announcement |
-| **Oct–Nov** | "Back an Icon" campaign runs — app, course network, broadcast layer |
+| **Oct–Nov** | "Back an Icon" campaign — app, course network, broadcast layer |
 | **11–13 Dec** | Icons Cup South Africa, The Links at Fancourt |
-| **Q1 2027** | National foundation moves to 100% Santam paper on the proof point |
+| **Q1 2027** | The global rollout opens on the back of it |
 
-The December date is fixed and the prize needs to be locked before the campaign can
-run at full volume. A quote in the next two weeks keeps the October announcement
-on the table.
+The December date is fixed. The prize must be locked before the campaign can run at
+full volume, and a quote in the next two weeks keeps an October announcement on the
+table.
 
 ---
 
-## 7. What we need from you
+## 6. What we need
 
-1. Confirmation of the right contact at Santam Specialist Solutions / SHA.
-2. The proposal form and whatever risk information you need from our side — we will
-   turn it around in 48 hours.
+1. The right contact at Santam Specialist Solutions for the quote.
+2. The proposal form and whatever risk information is needed — we will turn it around
+   in 48 hours.
 3. A call to walk through the app, the claim path and the evidence pack.
 
 ---
 
-**Johannes Le Roux** · Founder, Get Lucky Golf Club
-johannes@getluckygolfclub.com · [www.getluckyholeinone.com](https://www.getluckyholeinone.com)
+**Johannes Le Roux** · Co-founder, Get Lucky Golf Club
+johannes@getluckygolfclub.com · 060 961 5091 · [www.getluckyholeinone.com](https://www.getluckyholeinone.com)
+
+*Market and model figures from the Get Lucky Insurance Model (36-month base case) and
+the SA/USA/Europe market potential brief. ZAR at R18.50/$. Confidential — for
+discussion between Get Lucky, Indwe and Santam.*

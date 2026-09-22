@@ -1,82 +1,97 @@
-# Email — Santam & Indwe: 100% underwriting the SA foundation + the ICONS opportunity
+# Email — Indwe & Santam: extending the cover to the app and ICONS
 
-**To:** [Santam Specialist Solutions / SHA Risk Specialists contact] · [Indwe contact]
-**Cc:** [Indwe exec sponsor]
-**Subject:** Live from the PGA Show — the app, the underwriting ask, and a R10m shot at Fancourt
+**To:** Joe Szemerei <joes@indwe.co.za> · Brendon Pillay <BrendonP@indwe.co.za> · [Santam contact]
+**Cc:** Andrew Davenport <andrew@getluckygolfclub.com>
+**Subject:** Straight out of the PGA Show — the app is live, and ICONS is the global launch pad
 
 ---
 
-Hi [Names],
+Hi Joe & Brendon,
 
-I'm writing this from the PGA Show in Johannesburg, where we're running the Get Lucky Challenge on the floor. The demand has been exceptional — genuinely the clearest proof of opportunity we've had all year. Golfers are queuing to take a swing, and the conversation that follows every single one of them is the same: *who's behind the prize?*
+I've just come off the floor at the PGA Show in Johannesburg, where we ran the Get Lucky Challenge for three days. The demand was exceptional — genuinely the clearest proof of opportunity we've had since we built the model. Golfers queuing to take a swing, paying on the spot, and asking the same question every time: *where else can I do this?*
 
-Right now the answer is Indwe. I'd like it to be Santam and Indwe, properly, and I'd like to show you why that's a commercial decision rather than a sponsorship one.
+That's the whole thesis in one sentence. The mobile challenge sells itself one swing at a time, and what we saw at the show is the conversion assumption in the model happening in front of us, in a tent, without a course.
 
-Two things in this email: where the app has got to and what we're asking for, and a Fancourt-sized opportunity in December with a hard clock on it.
+Two things I want to put in front of you off the back of it.
 
-## Start here — the app is live
+## 1. The app is live — go and play it
 
 **[www.getluckyholeinone.com](https://www.getluckyholeinone.com)**
 
-Open it on your phone, not a laptop. Take the free swing — one per account, no card, a real R10,000 prize. You'll go through exactly what a golfer goes through: pick a course and a par 3, film the tee shot in the app, declare the result.
+Open it on your phone, not a laptop. Take the free swing — one per account, no card, a real R10,000 prize. You'll walk the exact path a golfer walks: pick a course and a par 3, film the tee shot in the app, declare the result.
 
-That five-minute walk-through *is* the underwriting conversation, because what the app is really doing is building you a claims file.
+This is no longer a model and a deck. It's live, it takes real money through PayFast, and it has 95 courses and 385 par 3s in the register. What the show proved is that the demand side works. What the app proves is that the claims side works — and that's the half that matters to Santam.
 
-## What we've built together so far
+Every entry produces a claims file automatically. The footage is sealed the second it lands, with a SHA-256 hash, the recording start and stop times, the device, the GPS fix and the distance to the course. The certificate and affidavit are hashed too. Named witnesses and the club confirm independently through one-time links we don't control. Eleven risk rules run on every claim, and a reviewer cannot approve one without completing a checklist. Every change sits in an append-only log that even our own service role can't edit.
 
-The first five months with Indwe gave us the foundation: 25 courses installed, 16,250 members at those courses, 306,250 golfer impressions, 2,134 entries, and 1,010 affluent leads to Indwe advisors. We learned the hard lesson too — lead volume was never the problem, positioning and journey were. Since we moved to curated, quote-ready cohorts, appointment quality has gone from ~3% to ~18%, and half the RFA leads are landing quote-ready.
+At the end you get one evidence pack per claim — a single file carrying its own SHA-256, so Santam's copy can be verified against ours with one command. That's the verification standard the R500,000-plus prize indemnity market asks for, running on every R50 entry as standard.
 
-The app is now the engine under all of it: 95 courses and 385 par 3s in the register, live tiers from the free R10,000 swing up to R150 → R100,000, and the system built and audited to carry R1,000,000. What's happening at the show this week is that same engine in a tent — and it's the busiest stand here.
+## 2. Let's close the SA foundation cover
 
-## The ask: Santam takes 100% of the SA foundation
+Santam already carries our risk and Indwe places it. What we haven't done is sign the cover for the mobile challenge itself — the 100% prize cover across the full SA prize book that the model prices.
 
-Today Indwe is the headline sponsor and insurer with Santam as co-insurer. We'd like to move to **Santam underwriting 100% of the prize risk across the national footprint**, with Indwe as broker of record and the brand that stays front and centre with the golfer.
+You've both seen the numbers, so I won't re-run them. The short version:
 
-It's a product ask, not a favour. Santam Specialist Solutions already sells prize indemnity, and SHA has been underwriting hole-in-one cover for over 30 years. This is your risk class and your paper — except instead of one-off club days, it's a portfolio of small, countable, video-verified exposures with a full audit trail behind each one.
+- **24% of every entry ceded as premium for 100% cover** of every verified ace.
+- **31.9% loss ratio, 51.9% combined after your 20% brokerage** — R3.14 of premium for every R1 of expected claim.
+- **R144m of premium placed through Indwe and R28.8m of brokerage** over the 36-month SA base case, at zero acquisition cost and zero underwriting risk to Indwe.
+- **Capped exposure**: largest single event is $100,000 (R1.85m). No subscriptions, no unlimited swings.
+- **Breakeven at 2.51× amateur ace odds** — 2.58× on the tier-selection test, where 95% of the claims actually sit. Both statistically remote.
 
-The thing that should make it easy: SHA's own hole-in-one proposal form requires video footage once the indemnity goes over R500,000. Our app produces that footage on *every single entry*, whether it's R50 or R1,000,000 — sealed the moment it lands, with a SHA-256 hash, the recording start and stop times, the device, the GPS fix and the distance to the course. The certificate and the affidavit are hashed too. The named witnesses and the club confirm independently through one-time links we don't control. Eleven risk rules run automatically, and a reviewer cannot approve a claim without completing a checklist. Every change sits in an append-only log that even our own service role can't edit.
+What's changed since Friday's conversation is that the demand assumption is no longer an assumption. The show gave us three days of live conversion data, and the app is taking real entries on real courses.
 
-At the end of it you get one evidence pack per claim — a single file with the whole story, carrying its own SHA-256, so your copy can be verified against ours with one command.
+**The steps to move from model to signed cover:**
 
-## Seven steps to get there
+1. **Confirm the schedule of risk** — the entry ladder, the $100k single-event cap, and the definition of a verified ace. We'll send the par-3 register and the entries and claims to date this week.
+2. **Agree the premium mechanic** — 24% of entry value ceded monthly in arrears, 20% brokerage to Indwe on placement.
+3. **Agree the claims protocol** — we hand over the evidence pack on every claim. If Santam wants its own sign-off before a payout leaves the account, we've already designed the step and we'll build it in.
+4. **Sign, and we switch the in-app insurer line** to reflect the cover.
 
-1. **Play the app.** Free swing, five minutes, on your phone.
-2. **We send the schedule of risk** — the full par-3 register (385 holes, 95 courses), the tier table, entries to date, claims to date, loss history.
-3. **You quote it as an aggregate annual prize indemnity**, not event by event. One policy over the book, not 600 golf days of paperwork.
-4. **We do a live claim walkthrough.** Pick a real claim from the queue, we hand you the evidence pack, you verify the hash yourself.
-5. **Papering:** Indwe stays broker of record, Santam goes on risk 100%, and we swap the in-app insurer line and the FSP banner.
-6. **Optional — your own sign-off step.** We've already designed an `insurer_confirmed` status that sits between "verified" and "paid", so nothing leaves the account until Santam says so. Say the word and we build it in.
-7. **Agree a go-live date** and we announce it.
+Give me a date and I'll work to it.
 
-## And then: ICONS
+## 3. And then ICONS — this is the one I'd move fastest on
 
-Get Lucky is a sponsor of **Icons Cup South Africa** — Team South Africa vs Team World, The Links at Fancourt, 11–13 December. Ernie Els captains the home side against José María Olazábal, 28 sporting icons from cricket, rugby and football, broadcast live to more than 150 countries.
+Get Lucky is a sponsor of **Icons Cup South Africa** — Team South Africa vs Team World, The Links at Fancourt, 11–13 December. Ernie captains the home side against José María Olazábal, 28 sporting icons across cricket, rugby and football, broadcast live to more than 150 countries.
 
-We own a par 3 out there: the Get Lucky hole. And we've put a **R10 million hole-in-one prize** on it — R4m to the Icon who holes it, R3m to a charity they support, and three R1m prizes to fans who backed that Icon in the app.
+We own a par 3 out there — the Get Lucky hole — and we've put a **R10 million hole-in-one prize** on it: R4m to the Icon who holes it, R3m to a charity they support, and three R1m prizes to fans who backed that Icon in the app.
 
-**What we need from Santam: a prize indemnity quote for that R10 million.**
+**I need a separate prize indemnity quote for that R10 million.**
 
-Why I think it's the best-value piece of brand inventory in South African sport this summer:
+To be straight with you about why it's a separate conversation and not an endorsement on the book: R10m is 5.4× the $100,000 single-event cap the main cover is priced on. It doesn't belong inside the app's schedule. It's a one-off facility sitting above it, on a closed field, for three days.
 
-- **The exposure is tiny and knowable.** 28 players, one hole, three days — a finite, countable number of tee shots, by athletes who aren't professional golfers. That's about as clean as prize indemnity gets.
-- **The stage is not tiny.** The last Icons event drew roughly 38 million views across 14 channels and 10 broadcast partners — Sky Sports, Fox Sports, SuperSport, TSN, Claro. This one is the African debut, on home soil, with Ernie Els leading.
-- **The charity tile writes itself.** R3m goes to a charity the Icon supports. Els for Autism runs two centres in South Africa, in Cape Town and Johannesburg. A Santam-backed R10m prize with a R3m South African community outcome attached is a very different story to a logo on a board.
-- **Every fan vote is a lead.** To back an Icon in the app you have to be a registered, identified South African golfer. That's first-party data on exactly the affluent audience we've spent the year learning how to reach — and Icons already runs an interactive broadcast layer, so the vote can go on screen during the telecast.
-- **The Links is already in the app.** All four of its par 3s are in our register. No build required.
+Which is also why it should be cheap to price:
+
+- **A closed, named field.** 28 players, known by name in advance, none of them professional golfers.
+- **One hole, three days.** A fixed carry, a defined number of rounds, a countable number of tee shots. No open entry, no walk-ups, no re-tries.
+- **One trigger, capped at R10m aggregate.** All five payouts fire off the same single ace or none of them do.
+- **Verification is live television.** Broadcast cameras on the hole plus our own app capture. This is not a claim anyone can dispute.
+
+### Why this is worth more to you than a sponsorship line
+
+**It's the global launch pad, not a December activation.** The US and Europe numbers we sent through rest on one sentence: Ernie's name is the key that opens both doors. Icons Cup is that name, on that property, broadcast into exactly the two markets the model is built to scale into. At 1% of US and Europe golfers the challenge places R380m of premium and pays Indwe R76m in brokerage *every year* — more than 2.5× the entire three-year SA base case. Icons is where that story gets told to those markets, with Santam's name on the prize.
+
+**Every fan vote is a qualified lead.** To back an Icon in the app you have to be a registered, age-verified golfer with a real account. That's first-party data on precisely the affluent audience we spent this year learning how to reach — and the honest lesson from the first five months was that lead volume was never the constraint, positioning was. *"Vote for the icon you think holes the R10 million shot"* is the best reason we have ever had to offer a golfer to create an account.
+
+**The charity tile is a real South African outcome.** R3m goes to a charity the Icon supports. Ernie captains the home team, and Els for Autism runs two centres here — Cape Town and Johannesburg. A Santam-backed R10m prize with a R3m South African community outcome attached is a very different story to a logo on a tee box.
+
+**And the venue is already built.** All four par 3s at The Links are in the app's register. There's nothing to construct.
 
 Full one-pager attached.
 
-## Next step
+## What I need
 
-I'd love to get both of these in front of the right people at Santam Specialist Solutions before month end. The foundation piece can move at a sensible pace; the Fancourt one has a December clock on it and we need a quote to lock the prize.
+1. A date to sign the SA foundation cover.
+2. The right person at Santam Specialist Solutions for the ICONS quote, and whatever proposal form they need — we'll turn it around in 48 hours.
 
-I'm at the show until Sunday and back in Cape Town Monday. Can we do a call next week? I'll bring the schedule of risk and a live claim to walk through.
+The December date is fixed and we need the prize locked before the campaign can run at full volume. A quote in the next two weeks keeps an October announcement on the table, which is when this needs to start being talked about.
+
+I'm back in Cape Town now. Can we do a call this week? I'll bring the schedule of risk and walk you through a live claim end to end.
 
 Looking forward to getting lucky at Fancourt.
 
-Warm regards,
+Best,
 
 **Johannes Le Roux**
-Founder, Get Lucky Golf Club
-johannes@getluckygolfclub.com
+Co-founder, Get Lucky Golf Club
+johannes@getluckygolfclub.com · 060 961 5091
 [www.getluckyholeinone.com](https://www.getluckyholeinone.com)
