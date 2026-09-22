@@ -38,7 +38,7 @@ You've both seen the numbers, so I won't re-run them. The short version:
 - **Capped exposure**: largest single event is $100,000 (R1.85m). No subscriptions, no unlimited swings.
 - **Breakeven at 2.51× amateur ace odds** — 2.58× on the tier-selection test, where 95% of the claims actually sit. Both statistically remote.
 
-What's changed since Friday's conversation is that the demand assumption is no longer an assumption. The show gave us three days of live conversion data, and the app is taking real entries on real courses.
+What's changed since we last spoke is that the demand assumption is no longer an assumption. The show gave us three days of live conversion data, and the app is taking real entries on real courses.
 
 **The steps to move from model to signed cover:**
 
