@@ -37,14 +37,14 @@ You've all seen the model, so I won't re-run it. The short version:
 - **24% of every entry ceded as premium for 100% cover** of every verified ace.
 - **31.9% loss ratio, 51.9% combined after your 20% brokerage** — R3.14 of premium for every R1 of expected claim.
 - **R144m of premium placed through Indwe and R28.8m of brokerage** over the 36-month SA base case, at zero acquisition cost and zero underwriting risk to Indwe.
-- **Capped exposure**: largest single event is $100,000 (R1.85m). No subscriptions, no unlimited swings.
+- **Capped exposure**: the SA ladder runs from R25,000 to R1,000,000, one swing at a time. Largest single event is R1m. No subscriptions, no unlimited swings.
 - **Breakeven at 2.51× amateur ace odds** — 2.58× on the tier-selection test, where 95% of the claims actually sit. Both statistically remote.
 
 What's changed since 2 September is that the demand assumption is no longer an assumption. The show gave us three days of live conversion data, and the build is finished and waiting.
 
 **The steps to move from model to signed cover:**
 
-1. **Confirm the schedule of risk** — the entry ladder, the $100k single-event cap, and the definition of a verified ace. We'll send the par-3 register and the show's conversion data this week.
+1. **Confirm the schedule of risk** — the SA entry ladder from R25,000 up to R1,000,000, the R1m single-event cap, and the definition of a verified ace. We'll send the par-3 register and the show's conversion data this week.
 2. **Agree the premium mechanic** — 24% of entry value ceded monthly in arrears, 20% brokerage to Indwe on placement.
 3. **Agree the claims protocol** — we hand over the evidence pack on every claim. If Santam wants its own sign-off before a payout leaves the account, we've already designed the step and we'll build it in.
 4. **Sign, and we launch.** The in-app insurer line goes up and we open it to the public.
@@ -61,7 +61,7 @@ We own a par 3 out there — the Get Lucky hole — and we've put a **R10 millio
 
 **I need a separate prize indemnity quote for that R10 million.**
 
-To be straight with you about why it's a separate conversation and not an endorsement on the book: R10m is 5.4× the $100,000 single-event cap the main cover is priced on. It doesn't belong inside the app's schedule. It's a one-off facility sitting above it, on a closed field, for three days.
+To be straight with you about why it's a separate conversation and not an endorsement on the book: the SA ladder tops out at R1 million, and R10m is ten times that. It doesn't belong inside the app's schedule. It's a one-off facility sitting above it, on a closed field, for three days.
 
 Which is also why it should be cheap to price:
 
@@ -80,12 +80,29 @@ Which is also why it should be cheap to price:
 
 **And the venue is already built into the app.** All four par 3s at The Links are in the register. There's nothing to construct.
 
+### Price it as a package, not just a risk
+
+This is the part I'd ask you to carry into the quote: we're not asking you to underwrite this for nothing in return. Whoever backs the R10 million gets named on it, and it is the most visible single thing on the telecast — a prize that size is the story the commentary team tells every time the field reaches that hole.
+
+The rights that come with it, to be agreed between us:
+
+- **Naming on the prize** — "the R10 million prize, underwritten by Santam" — in the broadcast graphics and on-course at the Get Lucky hole.
+- **Branding on the hole itself** for the three days.
+- **The sponsor line on the app's Icons screen**, and the co-branded "Back an Icon" campaign through October and November across the app and the course network.
+- **The data** — every fan who votes is a registered, age-verified South African golfer.
+- **The charity moment** — the R3m announcement, with a South African beneficiary.
+
+I know a technical premium can't simply be discounted for marketing value, and I'm not asking anyone to bend underwriting to do it. **So quote them separately.** Let Specialist Solutions price the risk at the rate the risk deserves, and let the brand side value the rights package on its own terms. Net them off and the number that matters to Santam is a lot smaller than the premium on its own — with the underwriting integrity fully intact.
+
+If that's the wrong way round for how Santam is structured, tell me and we'll shape it however works. But I'd rather put the whole package on the table than have this priced as though we're only bringing you risk.
+
 Full one-pager attached.
 
 ## What I need
 
 1. A date to sign the SA foundation cover, so we can open the app — the 2 September decision, closed out.
 2. The right person at Santam Specialist Solutions for the ICONS quote, and whatever proposal form they need — we'll turn it around in 48 hours.
+3. The right person on the Santam brand side, so the rights package can be valued alongside it rather than after the fact.
 
 Both have the same clock on them. The December date is fixed, and we want the app open and taking entries well before it so the "Back an Icon" campaign has something to convert into. A quote in the next two weeks keeps an October announcement on the table.
 

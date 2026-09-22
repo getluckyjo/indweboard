@@ -12,7 +12,7 @@ September 2026
 
 On 2 September we agreed to **lock the South African policy down as the foundation
 for global expansion**. This is the event that opens it. It sits **above** the main
-cover's $100,000 single-event cap, so it needs its own quote — and it puts the Ernie
+cover's R1 million single-event cap, so it needs its own quote — and it puts the Ernie
 Els-backed challenge in front of exactly the two markets the model scales into. One
 weekend, a closed field of 28, broadcast to 150+ countries.
 
@@ -61,8 +61,9 @@ On it sits a **R10 million hole-in-one prize**:
 
 ### Why it sits outside the main cover
 
-The mobile challenge cover is priced on a **$100,000 (R1.85m) single-event cap**.
-R10m is 5.4× that limit, so this does not belong on the app's schedule of risk. It is
+The SA entry ladder runs from **R25,000 up to R1,000,000**, so the cover is priced on a
+**R1 million single-event cap**. R10m is ten times that limit, so this does not belong
+on the app's schedule of risk. It is
 a **separate one-off facility above the book** — which is the cleaner structure for
 both sides, because the risk profile is completely different and far tighter.
 
@@ -133,6 +134,23 @@ Santam, is a fundamentally different story to a logo on a tee box — and it giv
 brand team something to talk about that has nothing to do with insurance, which is
 when insurance brands land best.
 
+### 3.4 And there are rights attached — price it as a package
+
+Whoever backs the R10 million gets named on it, and it is the most visible single
+thing on the telecast. This is not a one-way risk transfer.
+
+**The rights, to be agreed:** naming on the prize in broadcast graphics and on-course
+("underwritten by Santam"); branding on the Get Lucky hole for the three days; the
+sponsor line on the app's Icons screen; the co-branded "Back an Icon" campaign
+through October and November across the app and the course network; the first-party
+data from every vote; and the R3m charity announcement.
+
+**A technical premium cannot be discounted for marketing value, and we are not asking
+anyone to bend underwriting to do it. So quote them separately** — let Specialist
+Solutions price the risk at the rate the risk deserves, and let the brand side value
+the rights on their own terms. Netted off, the number that matters to Santam is
+materially smaller than the premium alone, with underwriting integrity fully intact.
+
 ---
 
 ## 4. Nothing needs to be built
@@ -169,7 +187,8 @@ table.
 
 ## 6. What we need
 
-1. The right contact at Santam Specialist Solutions for the quote.
+1. The right contact at Santam Specialist Solutions for the quote, and the right
+   contact on the brand side to value the rights package alongside it.
 2. The proposal form and whatever risk information is needed — we will turn it around
    in 48 hours.
 3. A call to walk through the app, the claim path and the evidence pack — alongside
